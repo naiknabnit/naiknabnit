@@ -12,10 +12,10 @@ Computer Science Engineering Student • AI • Full Stack • Cloud
 I build AI-powered applications, modern web experiences, and practical
 software solutions.
 
-🚀 Building AI & Full-Stack Projects  
-🤖 Exploring LLMs, RAG & Agentic AI  
-🌐 Next.js • React • Python • JavaScript  
-☁️ Cloud • Docker • Kubernetes
+ Building AI & Full-Stack Projects  
+ Exploring LLMs, RAG & Agentic AI  
+ Next.js • React • Python • JavaScript  
+ Cloud • Docker • Kubernetes
 ---
 
 ## 🛠️ Technologies
@@ -26,9 +26,9 @@ software solutions.
 
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ⛪ Union Church Bhubaneswar
+###  Union Church Bhubaneswar
 
 Full-stack website built for Union Church Bhubaneswar.
 
@@ -36,7 +36,7 @@ Full-stack website built for Union Church Bhubaneswar.
 
 ---
 
-### 🤖 Agentic AI
+###  Agentic AI
 
 AI application exploring LLMs, RAG, agents and intelligent workflows.
 
@@ -44,7 +44,7 @@ AI application exploring LLMs, RAG, agents and intelligent workflows.
 
 ---
 
-### 🚗 CarCareAI
+###  CarCareAI
 
 AI-oriented automotive application.
 
@@ -60,7 +60,7 @@ AI-oriented automotive application.
 
 </p>
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <p align="center">
 
